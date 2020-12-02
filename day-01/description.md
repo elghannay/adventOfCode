@@ -11,7 +11,9 @@ async function getData() {
 }
 ```
 
-then use a basic nested for loops to check whether the sum adds up to 2020 and log the result of multiplication if true using checkSum function>:
+#### step 2
+
+then use a basic nested for loops to check whether the sum adds up to 2020 and log the result of multiplication if true using checkSum function:
 
 ```js
 function checkSum(data) {
