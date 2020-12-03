@@ -7,7 +7,6 @@ async function getData() {
   const response = await fetch('input.txt');
   const text = await response.text();
   data = text.split('\n');
-  checkSum(data);
 }
 ```
 
